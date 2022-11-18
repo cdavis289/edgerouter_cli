@@ -1,0 +1,2 @@
+#Clear DHCP Lease
+clear dhcp lease ip 192.168.20.247
